@@ -1,0 +1,4 @@
+module-info.class
+org/openjfx/App.class
+org/openjfx/PrimaryController.class
+org/openjfx/TyperTask.class
